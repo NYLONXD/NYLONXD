@@ -58,12 +58,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NYLONXD&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NYLONXD&layout=compact&theme=radical" alt="top langs" />
-</p>
 
 ---
 
@@ -71,7 +66,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Himanshu%20Jha-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/himanshu-jha-nylonxd/)
 [![Gmail](https://img.shields.io/badge/Gmail-himanshujha%40email.com-red?style=flat&logo=gmail)](mailto:himanshujha202005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-sanu--username-black?style=flat&logo=github)](https://github.com/NYLONXD)
+[![GitHub](https://img.shields.io/badge/GitHub-Himanshu--username-black?style=flat&logo=github)](https://github.com/NYLONXD)
 
 ---
 
