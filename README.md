@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Himanshu Jha</h1>
-<h3 align="center">💻 Full Stack Developer | 🔬 Tech Enthusiast | 🚀 Always Exploring Innovation</h3>
+<h3 align="center">💻 Full Stack Developer | ⚙️ Curious Engineer | 🚀 Always Exploring Innovation</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Passionate+Developer;I+love+building+smart+solutions;React+%7C+Node+%7C+IoT+%7C+Firebase" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
 </p>
 
 ---
@@ -35,16 +39,15 @@
 
 ## 💼 Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🔐 Smart RFID Attendance System](https://github.com/your-repo) | IoT-based secure RFID system with real-time Firebase & SD card logging | Arduino, Firebase, RFID, ESP8266 |
-| [♟ Chess Game in C++](https://github.com/your-repo) | Fully functional 2-player terminal chess game | C++ |
-| [🧘 Fitness & Yoga Website](https://github.com/your-repo) | Responsive frontend with clean design and interactive elements | HTML, CSS, JavaScript |
-| [🌍 Travel Planner & Expense Split App](https://github.com/your-repo) | Plan trips and manage expenses in real-time | React, Node.js, Firebase |
-| [🛍 MERN Stack E-Commerce Website](https://github.com/your-repo) | Product listings, cart, orders, and payment integration | MongoDB, Express, React, Node.js |
-| [💬 VerseForge - Social Writing Platform](https://github.com/your-repo) | A premium full-stack creative writing app with animations & community features | MERN Stack, GSAP |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [🧑‍💻 Portfolio_02](https://github.com/NYLONXD/Portfolio_02) | A 3D animated portfolio website to showcase my profile and skills interactively. | TypeScript, Three.js, React |
+| [🤖 ChatBot](https://github.com/NYLONXD/ChatBot) | A fun Python-based chatbot made just for entertainment and experimentation. | Python |
+| [🌍 Travel-Planner-01](https://github.com/NYLONXD/Travel-Planner-01) | A smart planner to organize trips and split expenses with friends efficiently. | JavaScript |
+| [🌌 MilkyWiz](https://github.com/NYLONXD/MilkyWiz) | A creative and experimental TypeScript project—details coming soon! | TypeScript |
+| [⚛️ React Project](https://github.com/NYLONXD/React-project) | A basic React project experimenting with UI components and routing. | React, CSS |
 
-> ✨ Every project is documented with screenshots, tech used, and future goals.
+> ✨ More projects coming soon — each crafted with passion and a touch of style.
 
 ---
 
@@ -58,7 +61,14 @@
 
 ---
 
+<!--
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NYLONXD&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NYLONXD&layout=compact&theme=radical" alt="top langs" />
+</p>
+-->
 
 ---
 
@@ -66,7 +76,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Himanshu%20Jha-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/himanshu-jha-nylonxd/)
 [![Gmail](https://img.shields.io/badge/Gmail-himanshujha%40email.com-red?style=flat&logo=gmail)](mailto:himanshujha202005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Himanshu--username-black?style=flat&logo=github)](https://github.com/NYLONXD)
+[![GitHub](https://img.shields.io/badge/GitHub-NYLONXD-black?style=flat&logo=github)](https://github.com/NYLONXD)
 
 ---
 
