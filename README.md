@@ -43,7 +43,7 @@
 |---------|-------------|------------|
 | [🧑‍💻 Portfolio_02](https://github.com/NYLONXD/Portfolio_02) | A 3D animated portfolio website to showcase my profile and skills interactively. | TypeScript, Three.js, React |
 | [🤖 ChatBot](https://github.com/NYLONXD/ChatBot) | A fun Python-based chatbot made just for entertainment and experimentation. | Python |
-| [🌍 Travel-Planner-01](https://github.com/NYLONXD/Travel-Planner-01) | A smart planner to organize trips and split expenses with friends efficiently. | JavaScript |
+| [🌍 Travel-Planner-01](https://github.com/NYLONXD/Live-supply-tracker) |A real Time base tracking system for small business| JavaScript, React, Node.js, MongoDB, Socket.io |
 | [🌌 MilkyWiz](https://github.com/NYLONXD/MilkyWiz) | A creative and experimental TypeScript project—details coming soon! | TypeScript |
 | [⚛️ React Project](https://github.com/NYLONXD/React-project) | A basic React project experimenting with UI components and routing. | React, CSS |
 
